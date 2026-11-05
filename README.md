@@ -1,1 +1,2 @@
-# OOP6.HaftaOdevi
+# OOP 6.Hafta Ödevi
+Bu depo, Y. Daniel Liang - Introduction to Java Programming and Data Structures kitabı 13. Bölüm (Abstract Classes & Interfaces) kapsamında tamamlanan 10 farklı programlama ödevini içermektedir. Projede istiklal.edu.tr ve test olmak üzere iki ayrı paket yapısı kullanılarak modelleme ve test katmanları birbirinden bağımsız şekilde yapılandırılmıştır. Çalışmada geometrik nesne hiyerarşileri, özel arayüz tasarımları (Colorable), Comparable ile sıralama, Cloneable ile derin kopyalama ve BigInteger destekli rasyonel sayı mekanizmaları uygulanmıştır. Tüm çözümler nesne yönelimli tasarım prensiplerine (OOP) uygun olarak geliştirilmiş ve sınıf ilişkileri UML diyagramlarıyla belgelenmiştir.
